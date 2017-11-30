@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/HeightCalibration/opencv_world331d.lib
+/HeightCalibration/opencv_world331d.dll
+/HeightCalibration/opencv_world331.lib
+/HeightCalibration/opencv_world331.dll
